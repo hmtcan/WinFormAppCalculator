@@ -61,9 +61,30 @@ namespace WinFormAppCalculator
 
 		private void btn_Equal_Click(object sender, EventArgs e)
 		{
-			
+			switch (operation)
+			{
+				case "+":
+					txt_Result.Text = (value + double.Parse(txt_Result.Text)).ToString();
+					break;
+
+				case "-":
+					txt_Result.Text = (value - double.Parse(txt_Result.Text)).ToString();
+					break;
+
+				case "x":
+					txt_Result.Text = (value * double.Parse(txt_Result.Text)).ToString();
+					break;
+
+				case "/":
+					txt_Result.Text = (value / double.Parse(txt_Result.Text)).ToString();
+					break;
+
+				default:
+					break;
+
+			}
 		}
 
 
-	}
+		}
 }
