@@ -19,7 +19,7 @@
 
 * <b> Akış Şeması // Flowchart </b>
   
-![calculator](https://github.com/hmtcan/WinFormAppCalculator/assets/100353650/b11ab255-edba-4e01-b369-2c9978bd9ef3)
+![calculator](https://github.com/hmtcan/WinFormAppCalculator/assets/100353650/f593dd33-f7c6-49c4-b42e-aaea62e21765)
 
 
 
