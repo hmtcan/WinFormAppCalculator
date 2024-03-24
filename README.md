@@ -1,6 +1,6 @@
-* Sözde Kod // Pseudocode 
+* <b> Sözde Kod // Pseudocode </b> 
 
-1- Başlat / Start
+<i> 1- Başlat / Start
 
 2- Rakam butonlarına basıldığında buton üzerindeki rakamı yaz / Write the digit on the button when a number button is pressed
 
@@ -15,8 +15,9 @@
 7- Sonucu göster
 
 8- Bitir / End
+</i>
 
-* Akış Şeması // Flowchart
+* <b> Akış Şeması // Flowchart </b>
   
 ![calculator](https://github.com/hmtcan/WinFormAppCalculator/assets/100353650/b11ab255-edba-4e01-b369-2c9978bd9ef3)
 
